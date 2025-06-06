@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QuantPrep AI – Master Your Quant Interview 🎯
 
-## Getting Started
+**QuantPrep AI** is an AI-powered platform designed to help you **master behavioral and technical interviews** for Quant roles — including **Quant Trader**, **Quant Researcher**, and **Quant Analyst** positions.
 
-First, run the development server:
+🚀 **Launch smarter. Interview better. Land your dream quant role.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔍 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎓 Role-Specific Coaching
+Practice with tailored questions for:
+- **Quant Trader** – Market microstructure, risk management, algo trading
+- **Quant Researcher** – Statistical modeling, research methodology, academic writing
+- **Quant Analyst** – Financial modeling, portfolio analysis, regulatory compliance
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🤖 AI-Powered Feedback
+- Real-time evaluation by Gemini AI
+- Scoring (0–10 scale) with detailed improvement tips
+- Highlights strengths and weaknesses
 
-## Learn More
+### 🎯 Realistic Simulations
+- Timed sessions to simulate real interviews
+- Audio recording support
+- Progress tracking and analytics
 
-To learn more about Next.js, take a look at the following resources:
+<!-- ---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧪 Plans
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Plan       | Price      | Features |
+|------------|------------|----------|
+| **Free**   | $0/month   | 3 sessions/month, all question types, basic AI feedback |
+| **Pro**    | $19/month  | Unlimited sessions, advanced feedback, analytics, PDF reports |
+| **Enterprise** | $49/month | Everything in Pro + custom sets, team management, priority support | -->
+<!--  -->
+---
 
-## Deploy on Vercel
+## 🔐 How to Get Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Sign up** on [QuantPrep AI](#)
+2. **Choose your role**: Trader, Researcher, or Analyst
+3. **Start practicing** and get feedback instantly
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📞 Contact
+
+For enterprise plans or support, reach out at: [Contact Sales](#)
+
+---
+
+## 📄 License
+
+© 2024 QuantPrep AI. All rights reserved. Unauthorized redistribution or commercial use is prohibited.
+
+---
+
+> Empowering the next generation of quant professionals.
+
