@@ -26,35 +26,6 @@ Practice with tailored questions for:
 
 <!-- ---
 
-## 🧪 Plans
 
-| Plan       | Price      | Features |
-|------------|------------|----------|
-| **Free**   | $0/month   | 3 sessions/month, all question types, basic AI feedback |
-| **Pro**    | $19/month  | Unlimited sessions, advanced feedback, analytics, PDF reports |
-| **Enterprise** | $49/month | Everything in Pro + custom sets, team management, priority support | -->
-<!--  -->
----
 
-## 🔐 How to Get Started
-
-1. **Sign up** on [QuantPrep AI](#)
-2. **Choose your role**: Trader, Researcher, or Analyst
-3. **Start practicing** and get feedback instantly
-
----
-
-## 📞 Contact
-
-For enterprise plans or support, reach out at: [Contact Sales](#)
-
----
-
-## 📄 License
-
-© 2024 QuantPrep AI. All rights reserved. Unauthorized redistribution or commercial use is prohibited.
-
----
-
-> Empowering the next generation of quant professionals.
 
